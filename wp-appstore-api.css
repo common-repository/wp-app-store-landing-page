@@ -1,0 +1,8 @@
+small { color: #999999; }
+
+.admin-block {
+   background-color:white;
+   padding:1em;
+   margin:1em 0;
+   border:1px solid #ddd;
+}
